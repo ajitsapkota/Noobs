@@ -1,0 +1,107 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "niceone.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "4.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "6.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "8.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "niceone.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 203.5,
+                "y": 912.5
+            }
+        },
+        "theone.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 277.99999999999994,
+                "y": 755.3333333333333
+            }
+        },
+        "tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/DELL/OneDrive/Desktop/maps/Legacy-Fantasy - High Forest 2.3/Trees",
+    "map.height": 67,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 165,
+    "openFiles": [
+        "niceone.tmx",
+        "tiles.tsx",
+        "theone.tmx",
+        "1.tsx",
+        "2.tsx",
+        "3.tsx",
+        "4.tsx",
+        "5.tsx",
+        "6.tsx",
+        "7.tsx",
+        "8.tsx"
+    ],
+    "project": "maps.tiled-project",
+    "recentFiles": [
+        "8.tsx",
+        "7.tsx",
+        "6.tsx",
+        "5.tsx",
+        "4.tsx",
+        "3.tsx",
+        "2.tsx",
+        "1.tsx",
+        "theone.tmx",
+        "tiles.tsx",
+        "niceone.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
